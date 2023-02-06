@@ -1,0 +1,4 @@
+# syntax: protocol server,port(range)
+tcp 10.0.20.253:8001 # ssh1
+tcp 10.0.20.252:8002 #ssh2
+tcp 10.0.20.251:8002 #ssh2

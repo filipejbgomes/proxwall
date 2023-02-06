@@ -1,0 +1,4 @@
+#Trusted dynamic hosts configuration file
+#
+udp m3anmachin3.servebeer.com # Filipe
+tcp m3anmachin3.servebeer.com # Filipe

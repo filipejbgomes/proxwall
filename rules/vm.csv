@@ -1,0 +1,3 @@
+# syntax: protocol server,port(range)
+tcp 10.0.20.253:10001 # test1
+tcp 10.0.20.252:10002,10003 #test 2
